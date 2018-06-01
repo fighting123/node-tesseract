@@ -10,3 +10,4 @@
 执行 `node index` 即可看到结果。
 
 ## 相关文章
+https://segmentfault.com/a/1190000015134802
