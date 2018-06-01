@@ -1,4 +1,4 @@
-# node-ocr-demo
+# node-tesseract demo
 用 node.js 调用 node-tesseract 和 graphicsmagick 包实现验证码识别
 
 
